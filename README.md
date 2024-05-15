@@ -1,13 +1,4 @@
 # Sparkify Data Warehouse: Song Play Analysis
-## Table of Contents
-
-1. [Business Context and Purpose](##1 Business Context and Purpose)
-2. [Project Datasets](##2 Project Datasets)
-3. [Data Warehouse Schema](##3 Database Schema Design)
-4. [ETL Pipeline](##4 ETL Pipeline)
-5. [Project Steps](##5 Project Steps)
-6. [Running the Project](##6 Running the Project)
-
 ## 1. Business Context and Purpose
 Sparkify is a rapidly growing music streaming startup. As their user base and song catalog expand, they need to gain deeper insights into user behavior, song popularity, and usage patterns to make informed business decisions. The goal of this data warehouse is to enable Sparkify's analytics team to:
 
